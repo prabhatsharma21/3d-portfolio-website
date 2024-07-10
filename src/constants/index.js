@@ -31,9 +31,24 @@ import {
       title: "About",
     },
     {
+        id: "Skills",
+        title: "Skills",
+      },
+      
+    {
       id: "work",
       title: "Work",
     },
+    {
+        id: "projects",
+        title: "Projects",
+      },
+      {
+        id: "education",
+        title: "Education",
+      },
+
+    
     {
       id: "contact",
       title: "Contact",
